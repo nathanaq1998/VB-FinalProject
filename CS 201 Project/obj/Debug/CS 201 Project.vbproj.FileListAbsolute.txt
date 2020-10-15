@@ -1,0 +1,14 @@
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\bin\Debug\CS 201 Project.exe.config
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\bin\Debug\CS 201 Project.exe
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\bin\Debug\CS 201 Project.pdb
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\bin\Debug\CS 201 Project.xml
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS 201 Project.vbprojAssemblyReference.cache
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS_201_Project.GameStats.resources
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS_201_Project.MainMenu.resources
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS_201_Project.Resources.resources
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS_201_Project.NewGame.resources
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS 201 Project.vbproj.GenerateResource.cache
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS 201 Project.vbproj.CoreCompileInputs.cache
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS 201 Project.exe
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS 201 Project.xml
+D:\Docs\Visual Basic Projects\CS 201 Project\CS 201 Project\obj\Debug\CS 201 Project.pdb
